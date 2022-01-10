@@ -2,9 +2,9 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+#  Mask Detection Percentage
 ## Final project for the Building AI course
- Mask Detection Percentage
+
 ## Summary
 My idea is about taking a quick 360 degree photo anywhere and process it through AI based image processing in order to calculate the percentage of people wearing face masks. This concept can be helpful for government authorities to quickly check how well the public is following the rules. 
 ## Background
