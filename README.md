@@ -37,5 +37,5 @@ There are several problems which i just assumed to be non existent till now like
 
 
 ## Acknowledgments
-I would like to thank Reaktor for providing me with such a nice course and the fellow participants from whom i got this idea 
+I would like to thank Reaktor and The University of Helsinki for providing me with such a nice course and the fellow participants surfing whose ideas this wonderful idea struck me.
 
